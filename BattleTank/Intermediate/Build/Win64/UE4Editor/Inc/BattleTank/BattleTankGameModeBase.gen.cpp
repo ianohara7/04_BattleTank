@@ -69,7 +69,7 @@ void EmptyLinkFunctionForGeneratedCodeBattleTankGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ABattleTankGameModeBase, 1793947338);
+	IMPLEMENT_CLASS(ABattleTankGameModeBase, 1591923173);
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ABattleTankGameModeBase(Z_Construct_UClass_ABattleTankGameModeBase, &ABattleTankGameModeBase::StaticClass, TEXT("/Script/BattleTank"), TEXT("ABattleTankGameModeBase"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ABattleTankGameModeBase);
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
